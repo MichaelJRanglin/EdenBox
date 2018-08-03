@@ -1,0 +1,17 @@
+﻿.picbox {
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	padding-bottom: 20px;
+	float: left;
+}
+.warp {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+.selectbox {
+	width: 1000px;
+	text-align: center;
+}

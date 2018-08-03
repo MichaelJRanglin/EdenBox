@@ -1,0 +1,212 @@
+﻿.boss {
+	background-color: #C0C0C0;
+	text-align: center;
+	z-index: 1000;
+	position: relative;
+	overflow: visible;
+}
+.fix{
+	width: 250px;
+	display: block;
+	overflow: visible;
+	visibility: hidden;
+	background-color: #C0C0C0;
+}
+.Note {
+	text-align: center;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+}
+.ResetButton {
+	width: 200px;
+	height: 30px;
+}
+#KPbox {
+	width: 200px;
+	height: 20px;
+	background-color: #C0C0C0;
+	color: #000000;
+	text-align: right;
+	margin-left: 660px;
+	margin-right: 60px;
+
+}
+
+.Wrap {
+	border-style: 1;
+	border-color: #000000;
+	margin-right: auto;
+		margin-left: auto;
+		right: auto;
+		left: auto;
+
+
+	}
+.content {
+	border-style: 2;
+	width: 1000px;
+	height: 600px;
+	border-color: #00FFCC;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.tdsize {
+	width:60px;
+	height:60;
+	
+}
+.talentwindow {
+	border-style: 1;
+	width: 866px;
+	height: 300px;
+	background-color: #FFFFFF;
+	border-color: #0000FF;
+	
+
+}
+.TalentBlock1 {
+	background-color: #FFFFFF;
+	width: 836px;
+	margin-left: 10px;
+	margin-right: 20px;
+	height: 60px;
+	
+
+}
+.TalentBlock2 {
+	background-color: #FFFFFF;
+	width: 836px;
+	margin-left: 10px;
+	margin-right: 20px;
+	height: 60px;
+	
+
+}
+.TalentBlock3 {
+	background-color: #FFFFFF;
+	width: 836px;
+	margin-left: 10px;
+	margin-right: 20px;
+	height: 60px;
+	
+
+}
+
+.WindowTop {
+	height: 40px;
+	width: 866px;
+	background-color: #0066FF;
+	text-align: right;
+	clear: both;
+	
+
+}
+.WindowBottom {
+	height: 60px;
+	width: 866px;
+	background-color: #0066FF;
+	text-align: left;
+	clear: both;
+	display: inline-block;
+	}
+
+.HoriSpacer {
+	width: 660px;
+	height: 20px;
+	background-color: #FFFFFF;
+}
+.skillpic {
+	width: 60px;
+	height: 60px;
+	background-color: #FFFFFF;
+	float: left;
+	overflow: visible;
+}
+
+.vertspacer {
+	width: 44px;
+	height: 60px;
+	background-color: #FFFFFF;
+	float: left;
+	text-align: left;
+	overflow: visible;
+		
+}
+.Resetbox {
+	width: 666px;
+	float: left;
+	clear: both;
+	height: 30px;
+	display: block;
+}
+#KPbox2 {
+	background-color: #C0C0C0;
+	text-align: right;
+	color: #000000;
+	width: 200px;
+}
+.formfix {
+	width: 0200px;
+	height: 30px;
+	float: left;
+	clear: both;
+	display: block;
+}
+.Controll {
+	height: 60px;
+	width: 22px;
+}
+.ConButton {
+	height: 20px;
+	width: 22px;
+	clear: both;
+	float: left;
+}
+.skilllvl {
+	width: 22px;
+	height: 20px;
+	clear: both;
+	font-size: 10px;
+	float: left;
+	display: inline-block;
+}
+.Skillimg{
+	
+	width: 60px;
+	height: 60px;
+
+
+}
+.Skillimg2{
+	width: 20px;
+	height: 60px;
+}
+.v1{
+	width: 22px;
+	height: 60px;
+	float:left;
+		
+
+}
+.v2{
+	width: 22px;
+	height: 60px;
+	float:left;
+		
+
+}
+.Adbottom {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	top: -200px;
+	margin-top: -240px;
+	width: 900px;
+}
+.adTop {
+	text-align: center;
+}
